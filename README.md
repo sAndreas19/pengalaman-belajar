@@ -19,7 +19,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **20 Juni 2021**<br>
-Belajar git dan github. (Progres 98%)
+Belajar git dan github. (Progres 95%)
 * Belajar membuat branch baru
-* Belajar merge
-* Belajar conflic
+* Belajar melakukan Merger pada branch
+* Belajar menyelesaikan conflic pada saat melakukan merge branch
