@@ -25,3 +25,4 @@ Belajar git dan github. (Progres 95%)
 * Belajar menyelesaikan conflic pada saat melakukan merge branch
 * Belajar mengundang colaborator
 * Belajar melakukan squash
+* Belajar Merge pada beberapa commit
